@@ -18,6 +18,19 @@ h1{
 
 }
 
+.logo{
+    
+padding: 0;
+display: inline-block;
+width: 15rem;
+border-radius: 50%;
+box-shadow: 0px 0px 20px rgb(246, 240, 240);
+
+
+
+
+}
+
 
 body{
 
