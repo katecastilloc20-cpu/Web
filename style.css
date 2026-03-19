@@ -68,7 +68,8 @@ margin-top: 4rem;
 }
 nav{
 display: flex;
-justify-content: space-between;
+justify-content: flex-end;
+width: 100%;
 
 
 }
