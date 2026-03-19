@@ -20,7 +20,7 @@ header{
 display: flex;
 padding:0;
 justify-content: space-between;
-text-align: left;
+text-align: right;
 background-color: rgba(113, 233, 153, 0.907);
 color: white;
 border-bottom: 1px solid black;
